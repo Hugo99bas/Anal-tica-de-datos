@@ -20,4 +20,4 @@ This course will make extensive use of the following libraries:
 
 * **[Statsmodels](http://www.statsmodels.org)** is a library that implements many statistical techniques.
 
-This notebook introduces the Pandas and Numpy libraries, which are used to manipulate datasets.  Next week we will give an overview of the Matplotlib and Seaborn libraries that are used to produce graphs.  The Statsmodels package will be used in the second and third courses of the series that introduce formal statistical analysis and modeling. 
+This notebook introduces the Pandas and Numpy libraries, which are used to manipulate datasets. 
